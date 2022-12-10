@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Skeebyy
+- 👋 Hi, I’m @Skeebyy, since the handle with one "y" was taken.
 - 👀 I’m interested in gaming, art/animation, and music
 - 🌱 I’m currently learning full stack development from The Odin Project
 - 💞️ I’m looking to collaborate on something, I just don't know what yet.
